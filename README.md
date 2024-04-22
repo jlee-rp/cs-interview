@@ -22,9 +22,9 @@ A demo Social Media Project Built for review purposes.
 - [x] Button
 - [x] Avatar
 - [x] Message - Short
-- [] Message - Dialog
 - [x] Upcoming - Tile
 - [x] SideNav - Tile
+- [x] Review Mobile Layouts
 - [x] Cleanup and comment TODOs
 
 Notes:
